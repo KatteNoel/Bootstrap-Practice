@@ -1,0 +1,17 @@
+body{
+    background-color: #2e2e2e;
+}
+
+h1{
+    text-align: center;
+    color: #2e2e2e;
+}
+
+.carousel-item{
+    height: 800px;
+    background-color: #f52037;
+}
+
+img{
+    height: 800px;
+}
